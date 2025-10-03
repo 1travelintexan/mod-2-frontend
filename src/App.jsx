@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Ragnar was Here!</h1>
+      <h2>Oh no... merger conflict!!!</h2>
     </>
   );
 }
